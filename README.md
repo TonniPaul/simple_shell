@@ -1,11 +1,14 @@
-#ALX GROUP PROJECT 2
+# Simple_shell
+### This is our simple shell group project
+
+# ALX GROUP PROJECT 2
 
 ## UNIX SHELL COMMANDS
 
-#Overview
-##Write a simple unix command 
+# Overview
+## Write a simple unix command 
 
-##Learning Objectives
+## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
