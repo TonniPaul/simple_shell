@@ -1,4 +1,5 @@
 # Simple_shell
+### This is our simple shell group project
 
 # ALX GROUP PROJECT 2
 
