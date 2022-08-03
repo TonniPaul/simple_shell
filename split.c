@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
  * swap_char - swaps | and & for non-printed chars
  *
@@ -42,6 +43,7 @@ char *swap_char(char *input, int bool)
 	}
 	return (input);
 }
+
 
 /**
  * add_nodes - add separators and command lines in the lists
