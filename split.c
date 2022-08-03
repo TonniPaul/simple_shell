@@ -44,6 +44,7 @@ char *swap_char(char *input, int bool)
 	return (input);
 }
 
+
 /**
  * add_nodes - add separators and command lines in the lists
  *
